@@ -2,6 +2,8 @@
 
 This Web Page include the Shoes Shop Collection with login,signup database connectivity.
 
+Technology Used: HTML,CSS,JS,NODE JS ,MONGODB
+
 
 ***Signup***
 
